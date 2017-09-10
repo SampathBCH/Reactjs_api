@@ -1,0 +1,23 @@
+{
+  "name": "reactjs_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "Sampath Chennuri",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "material-ui": "^0.19.1",
+    "mui-data-table": "^0.1.5",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-fetch": "0.0.9",
+    "webpack": "^3.5.6"
+  }
+}
