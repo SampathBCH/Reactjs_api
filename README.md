@@ -14,6 +14,7 @@ Modules Used:
 * react-dom
 * material-ui
 * babel kit (core, loader and es6 support)
+* react-fetch
 
 Steps to get it running:
 -Download the zip and extract to a folder under /nodejs/ (Assuming nodejs is installed)
